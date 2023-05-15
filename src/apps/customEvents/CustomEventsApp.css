@@ -1,0 +1,19 @@
+
+
+.padre {
+    padding: 1.5rem 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    border: 1px solid cornflowerblue; 
+    max-width: 500px;
+    margin: 5rem auto 0 auto;
+}
+
+.hijo {
+    border: 1px solid coral;
+    padding: 1rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
